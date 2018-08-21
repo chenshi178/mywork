@@ -4,3 +4,4 @@ mywork是关于平时开发工作的一些整理
 ### 2.redis
 ### 3.spring
 ### 4.mysql
+### 5.[算法](https://github.com/chenshi178/mywork/tree/master/algorithm)
