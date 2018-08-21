@@ -1,7 +1,20 @@
 # mywork
 mywork是关于平时开发工作的一些积累和整理
-### 1.java基础
-### 2.redis
-### 3.spring
-### 4.mysql
-### 5.[算法](https://github.com/chenshi178/mywork/tree/master/algorithm)
+### activemq(消息中间件)
+### [algorithm（算法）](https://github.com/chenshi178/mywork/tree/master/algorithm)
+### designpatterns(设计模式)
+### dubbo（RPC框架）
+### java（java基础）
+### jenkins
+### jvm
+### maven
+### mybatis
+### mycat
+### mysql
+### netty
+### redis
+### spring
+### springboot
+### springmvc
+### zookeeper
+
