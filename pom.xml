@@ -13,6 +13,19 @@
         <module>myredis</module>
         <module>algorithm</module>
         <module>java</module>
+        <module>netty</module>
+        <module>dubbo</module>
+        <module>mysql</module>
+        <module>springmvc</module>
+        <module>mybatis</module>
+        <module>activemq</module>
+        <module>mycat</module>
+        <module>jvm</module>
+        <module>springboot</module>
+        <module>jenkins</module>
+        <module>maven</module>
+        <module>zookeeper</module>
+        <module>designpatterns</module>
     </modules>
 
 
