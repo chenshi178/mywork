@@ -5,8 +5,8 @@ mywork是关于平时开发工作的一些积累和整理
 ### designpatterns(设计模式)
 ### dubbo（RPC框架）
 ### java（java基础）
-### jenkins
-### jvm
+### jenkins（持续集成）
+### jvm(java虚拟机)
 ### maven
 ### mybatis
 ### mycat
