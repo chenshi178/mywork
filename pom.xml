@@ -11,6 +11,7 @@
     <modules>
         <module>myspring</module>
         <module>myredis</module>
+        <module>algorithm</module>
     </modules>
 
 
