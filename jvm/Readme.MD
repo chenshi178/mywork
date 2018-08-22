@@ -22,6 +22,7 @@ Serial的多线程版本
 初始标记->并发标记->重新标记->并发清除
 #### G1
 初始标记->并发标记->重新标记->并发整理
+### [jvm面试题及答案](https://github.com/chenshi178/mywork/blob/master/jvm/Interview.MD)
 
 
 
