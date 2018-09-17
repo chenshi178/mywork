@@ -14,7 +14,6 @@
         <module>algorithm</module>
         <module>java</module>
         <module>netty</module>
-        <module>dubbo</module>
         <module>mysql</module>
         <module>springmvc</module>
         <module>mybatis</module>
@@ -26,7 +25,20 @@
         <module>maven</module>
         <module>zookeeper</module>
         <module>designpatterns</module>
+        <module>dubbo</module>
+        <module>spi</module>
+        <module>elasticsearch</module>
     </modules>
+
+
+    <dependencies>
+        <!-- https://mvnrepository.com/artifact/mysql/mysql-connector-java -->
+        <dependency>
+            <groupId>mysql</groupId>
+            <artifactId>mysql-connector-java</artifactId>
+            <version>5.1.25</version>
+        </dependency>
+    </dependencies>
 
 
 </project>
