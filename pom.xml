@@ -28,6 +28,7 @@
         <module>dubbo</module>
         <module>spi</module>
         <module>elasticsearch</module>
+        <module>cglib</module>
     </modules>
 
 
